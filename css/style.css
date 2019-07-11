@@ -94,6 +94,10 @@ figcaption {
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#efefef", endColorstr="#dddddd", GradientType=0);
 }
 
+.medium-fade {
+  
+}
+
 /*/////// MEDIA ////////*/
 
 img, video, audio, iframe, table, form {
